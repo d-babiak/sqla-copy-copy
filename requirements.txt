@@ -1,0 +1,3 @@
+postgoose==0.0.4
+psycopg2==2.7.5
+SQLAlchemy==1.2.12
